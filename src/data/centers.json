@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e_greenhub",
+    "name": "E-GreenHub",
+    "lat": 12.9081,
+    "lng": 77.5664,
+    "address": "#20, 3rd Main, 4th Cross, Kumaraswamy Layout, Bangalore - 560078",
+    "hours": "Mon-Sat 10:00 AM - 5:00 PM",
+    "phone": "+91 80 5554 1102",
+    "rating": 4.8,
+    "reviewsCount": 124,
+    "materials": ["paper", "batteries", "aluminum", "oil_filters"],
+    "details": "Bengaluru's leading e-waste and paper recycling hub. Certified green processing facility with instant weight-based credit payouts."
+  },
+  {
+    "id": "wastecycle_bengaluru",
+    "name": "WasteCycle Bengaluru",
+    "lat": 12.9719,
+    "lng": 77.6412,
+    "address": "#22, 2nd Cross, 1st Main, Indiranagar, Bangalore - 560038",
+    "hours": "Sat-Sun 10:00 AM - 4:00 PM",
+    "phone": "+91 80 5554 1103",
+    "rating": 4.6,
+    "reviewsCount": 89,
+    "materials": ["paper", "tires", "scrap_metal", "aluminum"],
+    "details": "Convenient weekend drop-off specialize in bulky household recyclables, metals, and standard paper waste with friendly curbside loading assistance."
+  },
+  {
+    "id": "gorecycle_bangalore",
+    "name": "GoRecycle Bangalore",
+    "lat": 13.0055,
+    "lng": 77.5691,
+    "address": "#33, 2nd Cross, 1st Main, Malleswaram, Bangalore - 560003",
+    "hours": "Mon-Fri 10:00 AM - 6:00 PM",
+    "phone": "+91 80 5554 1104",
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "materials": ["batteries", "tires", "scrap_metal", "oil_filters"],
+    "details": "Premier industrial and automotive component recycling hub in Malleswaram. Highly rated environmental operations for safe hazardous waste disposal."
+  }
+]
