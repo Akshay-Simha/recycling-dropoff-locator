@@ -1,0 +1,8 @@
+{
+  "name": "Recycling Drop-Off Store Locator",
+  "description": "A portfolio-grade recycling center locator featuring real Google Maps integration, guideline instructions, smart filters, and interactive search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Rinse and Empty Containers",
+    "description": "Make sure all containers are empty and rinsed clean before placing them in the recycling bin. Contaminated materials can spoil entire batches.",
+    "iconName": "Droplet"
+  },
+  {
+    "id": 2,
+    "title": "Remove Labels & Caps",
+    "description": "Remove any labels, stickers, and hard plastic caps from containers, as these often consist of different materials and interfere with recycling.",
+    "iconName": "Tag"
+  },
+  {
+    "id": 3,
+    "title": "Separate Materials",
+    "description": "Keep different types of recyclables separated—such as newspaper, oil filters, plastics, batteries, and scrap metal—to expedite processing.",
+    "iconName": "Layers"
+  },
+  {
+    "id": 4,
+    "title": "Dispose Responsibly",
+    "description": "Check localized community rules. Bulky metals, motor oils, cell batteries, and chemical containers must always be delivered to specialized hubs.",
+    "iconName": "ShieldAlert"
+  }
+]
